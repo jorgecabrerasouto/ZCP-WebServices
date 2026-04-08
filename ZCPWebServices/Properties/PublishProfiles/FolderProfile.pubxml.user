@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Administrador\Source\Repos\ZCPWebServicesSol\ZCPWebServices\bin\Release\net5.0\publish\ZCPWebServices</_PublishTargetUrl>
+    <History>True|2026-04-04T17:03:56.4033696Z;True|2026-04-04T11:56:47.7155342-05:00;True|2026-03-31T18:00:35.8181645-05:00;True|2026-03-31T11:23:01.5978096-05:00;True|2026-03-29T20:54:00.1069604-05:00;</History>
+  </PropertyGroup>
+</Project>
